@@ -1,0 +1,22 @@
+{
+  "name": "monitor-hardisk",
+  "version": "0.0.0",
+  "description": "monitor harddisk of a cctv system",
+  "main": "index.js",
+  "scripts": {
+    "star": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyvernnot/monitor-hardisk.git"
+  },
+  "author": "wyvernnot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wyvernnot/monitor-hardisk/issues"
+  },
+  "homepage": "https://github.com/wyvernnot/monitor-hardisk#readme",
+  "dependencies": {
+    "snmp-native": "^1.0.21"
+  }
+}
