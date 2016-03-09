@@ -1,5 +1,5 @@
 # monitor-harddisk
-> 如何使用 CloudInsight 监控闭路电视系统的磁盘大小
+> 如何使用 Cloud Insight 监控闭路电视系统的磁盘大小
 
 以 HIKVision 产品为例，登录管理界面，查看 **磁盘信息**
 
@@ -29,7 +29,7 @@ npm install
 node index.js
 ```
 
-### 4\.登录 CloudInsight 配置仪表盘
+### 4\.登录 Cloud Insight 配置仪表盘
 
 **新建仪表盘**
 
@@ -44,3 +44,7 @@ hikvision.disk.total
 **查看数据**
 
 ![](./cloudinsight.png)
+
+**了解Cloud Insight**
+
+[前往Cloud Insight 文档中心](http://docs-ci.oneapm.com?from=github-wangyan-monitor-harddisk) 了解更多关于Cloud Insight 的使用攻略
